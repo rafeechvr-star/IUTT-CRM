@@ -1,2 +1,0 @@
-# mep-crm
-CRM
